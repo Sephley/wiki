@@ -1,0 +1,26 @@
+site_name: wiki
+site_url: https://sephley.com
+repo_name: wiki
+repo_url: https://github.com/sephley/wiki
+site_description: My personal wiki
+site_author: Sephley
+copyright: All rights reserved
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      use_pygments: true
+      pygments_style: github-dark
+      noclasses: true
+  - pymdownx.inlinehilite
+
+theme:
+  name: terminal
+  palette: dark
+  features:
+    - footer.prev_next
+    - revision.date
+    - revision.history
+
+nav:
+  - Home: index.md
