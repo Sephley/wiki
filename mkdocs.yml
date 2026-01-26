@@ -25,3 +25,4 @@ theme:
 nav:
   - Home: index.md
   - Editing: editing/index.md
+    - Software: editing/software.md
