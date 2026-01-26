@@ -21,6 +21,7 @@ theme:
     - footer.prev_next
     - revision.date
     - revision.history
+    - navigation.side.indexes
 
 nav:
   - Home: index.md
