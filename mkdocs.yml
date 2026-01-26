@@ -25,6 +25,5 @@ theme:
 
 nav:
   - Home: index.md
-  - Editing: 
-  - editing/index.md
+  - Editing:
     - Software: editing/software.md
