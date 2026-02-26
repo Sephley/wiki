@@ -27,3 +27,5 @@ nav:
   - Home: index.md
   - Editing:
     - Software: editing/software.md
+  - Streaming:
+    - Mods: streaming/mods.md
