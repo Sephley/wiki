@@ -2,7 +2,7 @@ name: Documentation
 on:
   push:
     branches:
-      - main
+      - gh-pages
 permissions:
   contents: read
   pages: write
