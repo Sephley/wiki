@@ -3,3 +3,11 @@ site_name = "Sephley's Wiki"
 site_url = "https://sephley.github.io/wiki/"
 docs_dir = "docs"
 site_dir = "site"
+
+nav = [
+  {"Home" = "index.md"},
+  {"Editing" = [
+     "editing/index.md",
+     "editing/software.md"
+  ]}
+]
