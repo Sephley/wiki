@@ -18,9 +18,9 @@ scheme = "slate"
 
 nav = [
   {"Home" = "index.md"},
-  {"Editing" = [
-     "editing/index.md",
-     "editing/software.md"
+  {"Video creation" = [
+     "video_creation/index.md",
+     "video_creation/editing/software.md"
   ]},
   {"Streaming" = [
      "streaming/mods.md"
