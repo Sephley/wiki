@@ -9,7 +9,7 @@ nav = [
   {"Editing" = [
      "editing/index.md",
      "editing/software.md"
-  ]}
+  ]},
   {"Streaming" = [
      "streaming/mods.md"
   ]}
