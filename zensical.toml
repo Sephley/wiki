@@ -5,12 +5,9 @@ docs_dir = "docs"
 site_dir = "site"
 
 [project.theme]
-palette.primary = "indigo"
+palette.primary = "deep purple"
 palette.accent = "red"
 palette.scheme = "slate"
-
-#[project.theme.palette]
-#scheme = "slate"
 
 nav = [
   {"Home" = "index.md"},
