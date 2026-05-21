@@ -4,6 +4,13 @@ site_url = "https://sephley.github.io/wiki/"
 docs_dir = "docs"
 site_dir = "site"
 
+[project.theme]
+palette.primary = "indigo"
+palette.accent = "red"
+
+[project.theme.palette]
+scheme = "slate"
+
 nav = [
   {"Home" = "index.md"},
   {"Editing" = [
