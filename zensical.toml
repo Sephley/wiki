@@ -7,9 +7,10 @@ site_dir = "site"
 [project.theme]
 palette.primary = "indigo"
 palette.accent = "red"
+palette.scheme = "slate"
 
-[project.theme.palette]
-scheme = "slate"
+#[project.theme.palette]
+#scheme = "slate"
 
 nav = [
   {"Home" = "index.md"},
